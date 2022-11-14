@@ -1,3 +1,4 @@
+document.getElementById('BABY.jpeg');
 // change navbar styles on scroll
 
 window.addEventListener('scroll', () => {
